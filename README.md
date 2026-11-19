@@ -1,6 +1,6 @@
-﻿# 🧪 مستودع ورش وتدريبات GDG (Google Developer Groups Practice)
+﻿# 🧪 Google Developer Groups (GDG) Sandbox
 
-مستودع تجريبي وتطبيقي مخصص لتدريبات وورش العمل التابعة لـ Google Developer Groups (GDG).
+This repository contains code labs, workshop exercises, and practical experiments related to Google Developer Groups (GDG) sessions.
 
-- **الغرض:** تطبيقات عملية ومشاريع تجريبية خلال الورش التقنية (Workshops & Code Labs).
-- **الحالة:** مساحة تدريبية واختبارية (Sandbox & Practice).
+- **Purpose:** Hands-on workshop practice and exploration.
+- **Status:** Development sandbox.
